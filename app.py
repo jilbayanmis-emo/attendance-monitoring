@@ -39,7 +39,7 @@ TRIBES = [
 ]
 
 LEADERS = [
-	"Alezandrei Jamil Almeda","Arjay Pantilon","Dale Exel Aramay","Domel Anito","Federico Bacsal","Henry Cabal",
+	"Ptra. Rodilyn Evangelista", "Joel Evangelista", "Alezandrei Jamil Almeda","Arjay Pantilon","Dale Exel Aramay","Domel Anito","Federico Bacsal","Henry Cabal",
 	"Isaiah Mark Alen Pantilon","John Anthony Abarra","John Cesar San Juan","Leo Olipane","Roger Fallorin","Romy David",
 	"Annabelle Dejesa","Ashley Jeane Ocampo","Divine Medrano","Dolor Bacsal","Evelyn Pantilon","Angelita Draguin",
 	"Margarette Pantilon","Marites Fallorin","Nathasha Payumo","Noemi Cabal","Shara Mae Laguatan","Shekinah Shine Evangelista",
@@ -751,3 +751,4 @@ def add_member():
 # ----------------- Run Server -----------------
 if __name__ == "__main__":
 	app.run(host="0.0.0.0", port=5000, debug=True)
+
